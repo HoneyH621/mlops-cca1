@@ -1,0 +1,5 @@
+.venv/
+mlflow.db
+mlruns/
+student_model.pkl
+__pycache__/
