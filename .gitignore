@@ -3,3 +3,4 @@ mlflow.db
 mlruns/
 student_model.pkl
 __pycache__/
+evidently_report.html
